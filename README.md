@@ -1,4 +1,4 @@
-# ContractAnalyzerAIa
+##### ContractAnalyzerAIa
 
 AI-powered contract analysis: upload a contract and get a clause-level summary and explanation.
 
