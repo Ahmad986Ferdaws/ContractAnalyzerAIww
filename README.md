@@ -6,4 +6,4 @@ AI-powered contract analysis: upload a contract and get a clause-level summary a
 - Upload PDF contracts
 - Extract and chunk content
 - GPT-4 summarization and clause detection
-- Store results in SQLaaa
+- Store results in SQLaaaaaa
