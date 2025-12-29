@@ -8,4 +8,4 @@ AI-powered contract analysis: upload a contract and get a clause-level summary a
 - GPT-4 summarization and clause detection 
 - Store results in one of the most common ways of the thinkig which is to solve the problem,aaa
   
-aaaaa
+aaa
